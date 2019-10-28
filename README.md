@@ -1,2 +1,2 @@
-# creator-client
-使用CocosCreator创建的项目模版
+# hello-world
+Hello world new project template.
