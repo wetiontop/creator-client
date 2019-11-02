@@ -1,6 +1,27 @@
 {
 	"game": {
-		"name": "UNKNOW GAME",
-		"appid": "UNKNOW"
-	}
+		"name": "test",
+		"appid": "2735",
+		"cid": "3263"
+	},
+	"configs": [
+		{
+			"appid": "2735",
+			"services": [
+				{
+					"service_id": "235",
+					"enable": false
+				},
+				{
+					"service_id": "241",
+					"enable": false
+				},
+				{
+					"service_id": "242",
+					"enable": false
+				}
+			]
+		}
+	],
+	"needExecNative": true
 }
