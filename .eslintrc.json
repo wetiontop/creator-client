@@ -8,9 +8,13 @@
     "globals": {
         "Atomics": "readonly",
         "SharedArrayBuffer": "readonly",
+        "Buffer": true,
+        "cc": true,
         "CC_EDITOR": true,
-        "G": true,
-        "cc": true
+        "MD5": true,
+        "XXTEA": true,
+        "SPROTO": true,
+        "app": true
     },
     "parserOptions": {
         "ecmaVersion": 2018
